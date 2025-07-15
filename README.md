@@ -1,4 +1,4 @@
-# Rock P Rock Paper Scissor Game 🎮
+# Rock Paper Scissor Game 🎮
 
 "A fun and interactive *Rock Paper Scissor* game built with *HTML, CSS, and JavaScript*!"
 
